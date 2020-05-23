@@ -1,3 +1,8 @@
+<h1 align="center">Welcome to SingSyn 👋</h1>
+
+> The HMM-Based Singing Voice Synthesis System "SingSyn"  Base On Sinsy
+
+### Build States
 | Build | Ubuntu |
 | ----- | ------ |
 | master| [![Build status](https://ci.appveyor.com/api/projects/status/olem4mbqgsx50nup?svg=true)](https://ci.appveyor.com/project/GloomyGhost-MosquitoCoil/singsyn) |
