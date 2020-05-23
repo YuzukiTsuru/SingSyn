@@ -1,6 +1,6 @@
 2020-05-23 10:45 GloomyGhost
 
-    * NEWS, use CMake to build, deleted all Makefile
+    * NEWS, use CMake to build, deleted all Makefile, test the label output
 
 2015-12-25 03:15  uratec
 
