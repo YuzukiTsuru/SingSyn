@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 2.8)
 project(hts_engine)
 
 set(CMAKE_C_STANDARD 99)

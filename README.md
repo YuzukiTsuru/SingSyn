@@ -1,5 +1,8 @@
+| Build | Ubuntu |
+| ----- | ------ |
+| master| [![Build status](https://ci.appveyor.com/api/projects/status/olem4mbqgsx50nup?svg=true)](https://ci.appveyor.com/project/GloomyGhost-MosquitoCoil/singsyn) |
 
-ORIGIN README:
+### ORIGIN README:
 
 ```
 ===============================================================================
