@@ -2,6 +2,11 @@
 
 > The HMM-Based Singing Voice Synthesis System "SingSyn"  Base On Sinsy
 
+### TODO
+- [ ] Music context extraction
+- [ ] full label extraction
+
+
 ### Useage
 ```
 usage:
