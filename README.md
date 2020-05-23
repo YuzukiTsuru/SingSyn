@@ -2,6 +2,21 @@
 
 > The HMM-Based Singing Voice Synthesis System "SingSyn"  Base On Sinsy
 
+### Useage
+```
+usage:
+    sinsy [ options ] [ infile ]
+  options:                                           [def]
+    -w langs    : languages                          [  j]
+                  j: Japanese                             
+                  (Currently, you can set only Japanese)  
+    -x dir      : dictionary directory               [N/A]
+    -m htsvoice : HTS voice file                     [N/A]
+    -o file     : filename of output wav audio       [N/A]
+  infile:
+    MusicXML file
+```
+
 ### Build States
 | Build | Ubuntu |
 | ----- | ------ |
